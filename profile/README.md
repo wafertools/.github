@@ -24,3 +24,9 @@ Desktop wafer map viewer built on `wafermap` — Tauri v2, with a Rust/WASM pars
 and a TypeScript loader for ATDF/CSV/JSON. Ships as native installers for Linux, macOS, and
 Windows, and as a no-install browser app.
 [Browser app](https://wafertools.github.io/tsmap/app/) · [Releases](https://github.com/wafertools/tsmap/releases)
+
+## Community
+
+Questions, ideas, or want to show off a wafer map you built? Use [GitHub
+Discussions](https://github.com/wafertools/.github/discussions) — open to anyone using
+either project.
