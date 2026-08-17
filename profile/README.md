@@ -1,12 +1,15 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/icon-dark.png">
-  <img src="profile/icon-light.png" width="72" alt="wafertools">
+  <source media="(prefers-color-scheme: dark)" srcset="icon-dark.png">
+  <img src="icon-light.png" width="72" alt="wafertools">
 </picture>
 
 # wafertools
 
 Tools for reviewing semiconductor wafer test data: rendering wafer maps, computing yield
 and spatial statistics, and browsing STDF/ATDF/CSV/JSON test results.
+
+**📣 [What's New](https://wafertools.github.io/whats-new/)** — a curated, plain-language
+timeline of new capabilities across both projects.
 
 ## Projects
 
