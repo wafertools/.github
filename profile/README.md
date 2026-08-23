@@ -6,7 +6,7 @@
 # wafertools
 
 Tools for reviewing semiconductor wafer test data: rendering wafer maps, computing yield
-and spatial statistics, and browsing STDF/ATDF/CSV/JSON test results.
+and spatial statistics, and browsing STDF/ATDF/CSV/JSON/Parquet test results.
 
 **📣 [What's New](https://wafertools.github.io/whats-new/)** — a curated, plain-language
 timeline of new capabilities across both projects.
@@ -23,9 +23,9 @@ dependencies, no server required.
 
 **[tsmap](https://github.com/wafertools/tsmap)**
 
-Desktop wafer map viewer built on `wafermap` — Tauri v2, with a Rust/WASM parser for STDF
-and a TypeScript loader for ATDF/CSV/JSON. Ships as native installers for Linux, macOS, and
-Windows, and as a no-install browser app.
+Desktop and browser wafer map viewer built on `wafermap` — Tauri v2, with Rust parsers for
+STDF, ATDF, CSV, JSON, and Parquet, compiled to WebAssembly for the browser build. Ships as
+native installers for Linux, macOS, and Windows, and as a no-install browser app.
 [Browser app](https://wafertools.github.io/tsmap/app/) · [Releases](https://github.com/wafertools/tsmap/releases)
 
 ## Community
