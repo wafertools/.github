@@ -11,22 +11,36 @@ and spatial statistics, and browsing STDF/ATDF/CSV/JSON/Parquet test results.
 **📣 [What's New](https://wafertools.github.io/whats-new/)** — a curated, plain-language
 timeline of new capabilities across both projects.
 
-## Projects
+## Which one do you want?
 
-**[wafermap](https://github.com/wafertools/wafermap)** — `@wafertools/wafermap` on npm
+**Want to look at wafer data? → [tsmap](https://github.com/wafertools/tsmap)**
 
-Interactive wafer map visualization and yield analysis for semiconductor test data. Hard
-bins, soft bins, test values, retests, edge exclusion, reticle overlays, spatial
-statistics, failure clustering, and lot-level trend analysis — pure ES modules, no runtime
-dependencies, no server required.
-[Docs](https://wafertools.github.io/wafermap/) · [npm](https://www.npmjs.com/package/@wafertools/wafermap)
+A finished, free, MIT-licensed application. Open STDF, ATDF, CSV, JSON or Parquet (plus
+`.gz`/`.zip`) and get interactive yield maps, parametric heat maps, findings, a chart
+suite, lot galleries and exportable reports — no code, no account, no upload. Native
+installers for Linux, macOS and Windows, and a no-install browser build where files are
+still parsed entirely on your own machine. **Most people want this one.**
+[Open in the browser](https://wafertools.github.io/tsmap/app/) · [Releases](https://github.com/wafertools/tsmap/releases) · [Docs](https://wafertools.github.io/tsmap/)
 
-**[tsmap](https://github.com/wafertools/tsmap)**
+**Building an application? → [wafermap](https://github.com/wafertools/wafermap)** — `@wafertools/wafermap` on npm
 
-Desktop and browser wafer map viewer built on `wafermap` — Tauri v2, with Rust parsers for
-STDF, ATDF, CSV, JSON, and Parquet, compiled to WebAssembly for the browser build. Ships as
-native installers for Linux, macOS, and Windows, and as a no-install browser app.
-[Browser app](https://wafertools.github.io/tsmap/app/) · [Releases](https://github.com/wafertools/tsmap/releases)
+The rendering and analysis library tsmap is built on. Interactive wafer map visualization
+and yield analysis: hard bins, soft bins, test values, retests, edge exclusion, reticle
+overlays, spatial statistics, failure clustering and lot-level trend analysis — pure ES
+modules, no runtime dependencies, no server required. Two calls render a working map.
+
+Reach for it when you need wafer maps *inside* your own application, a data source tsmap
+doesn't read, or behaviour it doesn't offer — you can always start with tsmap and
+integrate later.
+[Docs](https://wafertools.github.io/wafermap/) · [Quick Start](https://wafertools.github.io/wafermap/quickstart/) · [npm](https://www.npmjs.com/package/@wafertools/wafermap)
+
+## Why these exist
+
+Both are written by **Paul Robins**, after nearly four decades in semiconductor test —
+most of it building test data analysis tools: wafer map and chart viewers, and the
+platforms they were built on. That work leaned on free software throughout, and these
+projects are some of it going back the other way. Both are MIT licensed.
+[More →](https://wafertools.github.io/)
 
 ## Community
 
