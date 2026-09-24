@@ -65,10 +65,10 @@ cargo check        # from src-tauri/
 cargo test         # from packages/parsers/
 ```
 
-A gap you hit in wafermap while working on tsmap belongs in
-[WMAP_ISSUES.md](https://github.com/wafertools/tsmap/blob/main/WMAP_ISSUES.md) — what the
-problem is, where in wafermap it originates, and a suggested fix. A tsmap-side workaround is
-temporary; the log entry is permanent.
+A gap you hit in wafermap while working on tsmap belongs in a
+[wafermap issue](https://github.com/wafertools/wafermap/issues) — what the problem is, where
+in wafermap it originates, and a suggested fix. A tsmap-side workaround is temporary; the
+issue is the permanent record.
 
 ## Licence
 
