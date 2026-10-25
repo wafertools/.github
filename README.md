@@ -14,7 +14,7 @@ are shared across both projects — ask about either one:
 **Want to look at wafer data? → [tsmap](https://github.com/wafertools/tsmap)**
 
 A finished, free, MIT-licensed application: open STDF, ATDF, CSV, JSON or Parquet (plus
-`.gz`/`.zip`) and get interactive yield maps, parametric heat maps, findings, charts, lot
+`.gz`/`.bz2`/`.zip`) and get interactive yield maps, parametric heat maps, findings, charts, lot
 galleries and reports — no code, no account, no upload. Native installers for Linux, macOS
 and Windows, and a browser build that still parses everything on your own machine.
 [Open in the browser](https://wafertools.github.io/tsmap/app/) ·
@@ -31,6 +31,9 @@ ES modules, no runtime dependencies, no server. Reach for it when you need wafer
 [npm](https://www.npmjs.com/package/@wafertools/wafermap)
 
 ---
+
+Both projects are free and MIT-licensed. If they save you time, you can support their
+development on [Ko-fi](https://ko-fi.com/wafertools).
 
 **[What's New](https://wafertools.github.io/whats-new/)** — a plain-language timeline of
 new capabilities across both projects.

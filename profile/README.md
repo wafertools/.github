@@ -21,7 +21,7 @@ timeline of new capabilities across both projects.
 **Want to look at wafer data? → [tsmap](https://github.com/wafertools/tsmap)**
 
 A finished, free, MIT-licensed application. Open STDF, ATDF, CSV, JSON or Parquet (plus
-`.gz`/`.zip`) and get interactive yield maps, parametric heat maps, findings, a chart
+`.gz`/`.bz2`/`.zip`) and get interactive yield maps, parametric heat maps, findings, a chart
 suite, lot galleries and exportable reports — no code, no account, no upload. Native
 installers for Linux, macOS and Windows, and a no-install browser build where files are
 still parsed entirely on your own machine. **Most people want this one.**
@@ -29,7 +29,7 @@ still parsed entirely on your own machine. **Most people want this one.**
 
 **Building an application? → [wafermap](https://github.com/wafertools/wafermap)** — `@wafertools/wafermap` on npm
 
-The rendering and analysis library tsmap is built on. Interactive wafer map visualization
+The rendering and analysis library tsmap is built on. Interactive wafer map visualisation
 and yield analysis: hard bins, soft bins, test values, retests, edge exclusion, reticle
 overlays, spatial statistics, failure clustering and lot-level trend analysis — pure ES
 modules, no runtime dependencies, no server required. Two calls render a working map.
@@ -43,8 +43,8 @@ integrate later.
 
 Both are written by **Paul Robins**, who has spent over 30 years building test data
 analysis software: wafer map and chart viewers, and the platforms they were built on.
-That work leaned on free software throughout, and these projects are some of it going
-back the other way. Both are MIT licensed.
+A lot of that work leaned on free software, and these projects are some of it going back
+the other way. Both are MIT licensed.
 [More →](https://wafertools.github.io/)
 
 ## Support
