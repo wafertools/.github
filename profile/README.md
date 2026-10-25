@@ -8,6 +8,11 @@
 Tools for reviewing semiconductor wafer test data: rendering wafer maps, computing yield
 and spatial statistics, and browsing STDF/ATDF/CSV/JSON/Parquet test results.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cover-dark.png">
+  <img src="cover-light.png" alt="Three wafer maps coloured by leakage, between bin-share and box-plot charts grouped by process corner">
+</picture>
+
 **📣 [What's New](https://wafertools.github.io/whats-new/)** — a curated, plain-language
 timeline of new capabilities across both projects.
 
