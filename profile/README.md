@@ -36,11 +36,17 @@ integrate later.
 
 ## Why these exist
 
-Both are written by **Paul Robins**, after nearly four decades in semiconductor test —
-most of it building test data analysis tools: wafer map and chart viewers, and the
-platforms they were built on. That work leaned on free software throughout, and these
-projects are some of it going back the other way. Both are MIT licensed.
+Both are written by **Paul Robins**, who has spent over 30 years building test data
+analysis software: wafer map and chart viewers, and the platforms they were built on.
+That work leaned on free software throughout, and these projects are some of it going
+back the other way. Both are MIT licensed.
 [More →](https://wafertools.github.io/)
+
+## Support
+
+Both projects are free, open-source and MIT-licensed. If they save you time, you can
+support their development on [Ko-fi](https://ko-fi.com/wafertools): tips help cover
+development hardware and running costs. Bug reports and sample files help just as much.
 
 ## Community
 
