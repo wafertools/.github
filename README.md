@@ -33,7 +33,7 @@ ES modules, no runtime dependencies, no server. Reach for it when you need wafer
 ---
 
 Both projects are free and MIT-licensed. If they save you time, you can support their
-development on [Ko-fi](https://ko-fi.com/wafertools).
+development: [how to support wafertools](https://wafertools.github.io/support/).
 
 **[What's New](https://wafertools.github.io/whats-new/)** — a plain-language timeline of
 new capabilities across both projects.
