@@ -57,6 +57,6 @@ files help just as much.
 
 ## Community
 
-Questions, ideas, or want to show off a wafer map you built? Use [GitHub
+Questions or ideas? Use [GitHub
 Discussions](https://github.com/wafertools/.github/discussions) — open to anyone using
 either project.
