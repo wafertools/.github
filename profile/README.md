@@ -50,10 +50,13 @@ the other way. Both are MIT licensed.
 ## Support
 
 Both projects are free, open-source and MIT-licensed, and will stay that way. If they save
-you time, you can leave a tip on [Ko-fi](https://ko-fi.com/wafertools). If your company
-relies on them, please consider a monthly sponsorship:
+you time, you can support them on [Ko-fi](https://ko-fi.com/wafertools). If your company
+relies on them, please consider sponsoring them monthly:
 [how to support wafertools](https://wafertools.github.io/support/). Bug reports and sample
 files help just as much.
+
+[![sponsor on GitHub](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/wafertools)
+[![support on Ko-fi](https://img.shields.io/badge/support-Ko--fi-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/wafertools)
 
 ## Community
 
